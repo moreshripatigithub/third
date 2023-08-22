@@ -1,1 +1,5 @@
 select * from emp;
+
+select *
+fro emp
+where status = 'full name';
