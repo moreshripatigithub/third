@@ -1,0 +1,2 @@
+a = 'shi'
+print(a)
